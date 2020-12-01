@@ -54,7 +54,7 @@ def hamza(z):
         time.sleep(0.03)
 
 
-banner = '\n\x1b[1;96m    ______   ____    _____ \n\x1b[1;96m   |  ____| |  _ \\  |_   _|\n\x1b[1;96m   | |__    | |_) |   | |  \n\x1b[1;96m   |  __|   |  _ <    | |  \n\x1b[1;96m   | |      | |_) |  _| |_ \n\x1b[1;96m   |_|      |____/  |_____|\n\n                                                \n\x1b[1;91m-----------------------------------------------\n\x1b[1;92m\xe2\x9e\xa3 OWNER      :  KURD X TOOL \n\x1b[1;92m\xe2\x9e\xa3 Dev        :  Biyar Hussein\n\x1b[1;92m\xe2\x9e\xa3 Facebook   :  Biyar Hussein\n\x1b[1;92m\xe2\x9e\xa3 Telegarm   :  Biyar007\n\x1b[1;91m-----------------------------------------------'
+banner = '\n\x1b[1;96m    ______   ____    _____ \n\x1b[1;96m   |  ____| |  _ \\  |_   _|\n\x1b[1;96m   | |__    | |_) |   | |  \n\x1b[1;96m   |  __|   |  _ <    | |  \n\x1b[1;96m   | |      | |_) |  _| |_ \n\x1b[1;96m   |_|      |____/  |_____|\n\n                                                \n\x1b[1;91m-----------------------------------------------\n\x1b[1;92m\xe2\x9e\xa3 OWNER      :  Mhamad Serwan \n\x1b[1;92m\xe2\x9e\xa3 Dev        :  Mhamad Serwan\n\x1b[1;92m\xe2\x9e\xa3 Facebook   :  Sarkrda Oza Shet\n\x1b[1;92m\xe2\x9e\xa3 Telegarm   :  IM.MONSTER\n\x1b[1;91m-----------------------------------------------'
 
 def tik():
     titik = [
