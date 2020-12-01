@@ -1,5 +1,5 @@
-# Decompiled By RandiSr
-# Github : https://github.com/RANDIOLOY
+# Decompiled By Monster
+# Github : https://github.com/Monster
 # uncompyle6 version 3.7.4
 # Python bytecode 2.7
 # Decompiled from: Python 2.7.18 (default, Jul  8 2020, 22:53:57) 
@@ -13,7 +13,7 @@ try:
 except ImportError:
     os.system('pip2 install requests')
     os.system('pip2 install mechanize')
-    os.system('python2 kurdxtool.py')
+    os.system('python2 Monster.py')
 
 reload(sys)
 sys.setdefaultencoding('utf8')
@@ -72,7 +72,7 @@ def tlogin():
     os.system('clear')
     print banner
     username = raw_input('[+] TOOL USERNAME: ')
-    if username == '1':
+    if username == 'monster':
         os.system('clear')
         print banner
         print '[\xe2\x9c\x93] TOOL USERNAME: ' + username + ' (correct)'
@@ -81,11 +81,11 @@ def tlogin():
         time.sleep(1)
         tlogin()
     passw = raw_input('[+] TOOL PASSWORD: ')
-    if passw == '1':
+    if passw == 'hama':
         os.system('clear')
         print banner
-        print '[\xe2\x9c\x93] TOOL USERNAME: ' + username + ' (correct)'
-        print '[\xe2\x9c\x93] TOOL PASSWORD: ' + passw + '  (correct)'
+        print '[\xe2\x9c\x93] TOOL USERNAME: ' + username + ' (Rasta)'
+        print '[\xe2\x9c\x93] TOOL PASSWORD: ' + passw + '  (Rasta)'
         time.sleep(2)
     else:
         print '[!] Invalid Password.'
@@ -93,7 +93,7 @@ def tlogin():
         tlogin()
     try:
         toket = open('login.txt', 'r')
-        os.system('python2 .fbikurd.py')
+        os.system('python2 .Monster.py')
     except (KeyError, IOError):
         methodlogin()
     else:
@@ -125,8 +125,8 @@ def methodlogin():
         hopa.close()
         print '\n[\xe2\x9c\x93] Logged In Successfully.'
         time.sleep(1)
-        os.system('xdg-open https://www.facebook.com/biyarHussein007')
-        os.system('python2 .fbikurd.py')
+        os.system('xdg-open https://www.facebook.com/Dzha.Maza.OZANMM')
+        os.system('python2 .Monster.py')
     elif hos == '3':
         os.system('clear')
         os.system('python2 login.py')
@@ -141,11 +141,11 @@ def login():
     os.system('clear')
     try:
         tb = open('login.txt', 'r')
-        os.system('python2 .fbikurd.py')
+        os.system('python2 .Monster.py')
     except (KeyError, IOError):
         os.system('clear')
         print banner
-        hamza('[!] KURD X TOOL')
+        hamza('[!] HACK MHAMAD')
         hamza('[!] Use a New Facebook Account To Login')
         print '-------------------------------------'
         iid = raw_input('[+] Number/Email: ')
@@ -160,9 +160,9 @@ def login():
             st.close()
             print '\n[\xe2\x9c\x93] Logged In Successfully.'
             time.sleep(1)
-            os.system('xdg-open https://www.facebook.com/biyarHussein007')
+            os.system('xdg-open https://www.facebook.com/Dzha.Maza.OZANMM')
             os.system('clear')
-            os.system('python2 .fbikurd.py')
+            os.system('python2 .Monster.py')
         elif 'www.facebook.com' in z['error_msg']:
             print '[!] User Must Verify Account Before Login.'
             time.sleep(3)
